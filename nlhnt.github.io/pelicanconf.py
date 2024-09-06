@@ -27,7 +27,7 @@ LINKS = (
 SOCIAL = (
     ("You can add links in your config file", "#"),
     ("Another social link", "#"),
-    ("https://x.com/grimyleaf", "#"),
+    ("@grimyleaf", "https://x.com/grimyleaf"),
 )
 
 DEFAULT_PAGINATION = 10
